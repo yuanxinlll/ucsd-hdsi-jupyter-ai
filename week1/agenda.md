@@ -19,3 +19,6 @@
 - Questions, reactions, careers, and whatever the group wants to explore
 
 **Next week:** What is Jupyter?
+
+
+Resources for quick learning basic commands about GitHub: https://learn.scds.ca/github-pages/
