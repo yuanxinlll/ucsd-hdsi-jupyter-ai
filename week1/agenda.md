@@ -21,4 +21,4 @@
 **Next week:** What is Jupyter?
 
 
-Resources for quick learning basic commands about GitHub: https://learn.scds.ca/github-pages/
+Optional resource: [Learn GitHub — SCDS Workshops](https://learn.scds.ca/github-pages/lessons/lesson2.html), a beginner-friendly introduction to GitHub's web interface, with a video and step-by-step instructions.
