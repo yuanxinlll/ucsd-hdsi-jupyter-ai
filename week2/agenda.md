@@ -24,7 +24,8 @@ We will open a disposable notebook, load a small BERT text-classification model 
 **Locate the work on the hardware.** Inspect device placement and confirm where the tested demonstration is executing on the CPU. The goal is to make the stages and their location visible, not to require a powerful laptop or make an untested GPU-performance claim.
 
 ### From running components to code and changes
-A short Youtube Video helping with the understanding of Jupyter related terms: (https://www.youtube.com/watch?v=TDlGKocbHoc)
+
+Optional video: [Jupyter & IPython terminology explained — Data School](https://www.youtube.com/watch?v=TDlGKocbHoc), an introduction to Jupyter Notebook, JupyterLab, IPython, and related terminology.
 
 Map the pieces we just used to their source repositories:
 
